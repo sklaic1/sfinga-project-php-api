@@ -1,0 +1,16 @@
+[
+    {"img":"https://gladiatus.gamerz-bg.com/images/Guild/Starting_guild.png","desc":"Potpuno nov saveznički izgled u gladiatusu na startu."},
+    {"img":"/img/gladiatus.jpg","desc":"Srednje razvijeni saveznički izgled u gladiatusu."},
+    {"img":"https://gladiatus.gamerz-bg.com/images/Guild/developed_guild.jpg","desc":"Izgrađeni saveznički izgled u gladiatusu."},
+    {"img":"/img/Forum Gladiatora.png","desc":"Gladiatorius forum, administrativno je središte saveza."},
+    {"img":"/img/Banka.png","desc":"Riznica saveza, a time i središte njegovog rasta."},
+    {"img":"/img/Doktorova vila.png","desc":"Medicinski centar saveza uvijek je dobro posjećen."},
+    {"img":"/img/Dvorana ratnih heroja.png","desc":"Car ne želi da se među savezima vode varvarski ratovi, pa je stvorio dvoranu ratnih heroja."},
+    {"img":"/img/Knjiznica.png","desc":"Znanje je snaga, a pero je jače od mača često se tvrdilo u carskim krugovima."},
+    {"img":"/img/Negotijum X.png","desc":"Šefovi tamnica koje su članovi ceha pronašli i pobijedili zatvoreni su u Negotijum X, koji je izvan sigurnih zidina grada."},
+    {"img":"/img/Panteon.png","desc":"Panteon je posvećen svim velikim bogovima."},
+    {"img":"/img/Parna kupelj.png","desc":"Kupatilo je omiljeno mjesto za druženje mnogih gladijatora."},
+    {"img":"/img/Saveznicki market.png","desc":"Savezničko tržište omogućuje tvrdim gladijatorima da kupuju u miru bez ikakvih konkurenata."},
+    {"img":"/img/Skladiste.png","desc":"Skladište saveza vrlo je strogo administrirano."},
+    {"img":"/img/Treniranje.png","desc":"Na poligonu postoje teška pravila, ali drugarski savjeti ostalih članova pomažu svakom gladijatoru da postane brži tijekom treninga, a time i štedi novac."}
+]
